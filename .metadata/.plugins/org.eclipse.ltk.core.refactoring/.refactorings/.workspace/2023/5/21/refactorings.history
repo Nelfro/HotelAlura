@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;challenge-one-alura-hotel-latam-repositorio-base&apos;" deleteContents="false" description="Delete resource &apos;challenge-one-alura-hotel-latam-repositorio-base&apos;" element1="/challenge-one-alura-hotel-latam-repositorio-base" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1684563363305"/>
+</session>

@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\nelvi\OneDrive\Dokumenter\Curso-Oracle\hotel_alura_hn\.metadata\.plugins\org.eclipse.jdt.core
+2734655898.index
+3604316178.index
+1905906606.index
+1366006559.index
+1028599934.index
+1973307687.index
+1865797976.index
